@@ -32,6 +32,7 @@ class Api::V1::ListingsController < Api::V1::BaseController
     # No need to create a `destroy.json.jbuilder` view
   end
 
+  
   private
 
   def set_listing
