@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reservation_start_date: 2023-03-23
+  reservation_end_date: 2023-03-23
+  cancelled: false
+  listing: one
+
+two:
+  reservation_start_date: 2023-03-23
+  reservation_end_date: 2023-03-23
+  cancelled: false
+  listing: two
